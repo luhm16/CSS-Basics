@@ -1,0 +1,26 @@
+body{
+    background-color: grey;
+}
+
+h2{
+    background-color: darkmagenta;
+    color: white;
+    padding: 10x;
+    border-radius: 20px;
+    box-shadow: 0 0 10px black;
+}
+ul{
+    font-family: 'verdana',serif;
+    font-size: 22px;
+    background-color: orangered;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+    width: 60%;
+}
+
+li{
+    background-color: lightsalmon;
+    margin-bottom: 5px;
+    padding: px;
+}
